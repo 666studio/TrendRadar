@@ -7,21 +7,25 @@ IONQ
 DJI
 JOBY
 
-
 美股
 英伟达
 NVIDIA
+特斯拉
+Tesla
 Meta
 微软
 Microsoft
+苹果
 Apple
 谷歌
 Google
+亚马逊
 Amazon
 AMD
+高通
 AVGO
+台积电
 TSML
-Alibaba
 
 黄仁勋
 马斯克
@@ -32,7 +36,3 @@ chatgpt
 Anthropic
 DeepSeek
 Gemini
-
-特斯拉
-自动驾驶
-比亚迪
