@@ -1,32 +1,31 @@
 核能
 Nuclear power
-
 量子计算
 IONQ
-
-低空飞行
+低空经济
+无人机
 DJI
 JOBY
 
+
+美股
 英伟达
 NVIDIA
-黄仁勋
-
 Meta
+微软
 Microsoft
 Apple
+谷歌
 Google
 Amazon
 AMD
 AVGO
 TSML
-ByteDance
 Alibaba
-Tencent
 
-ai
-!gai
-人工智能
+黄仁勋
+马斯克
+奥特曼
 
 OpenAI
 chatgpt
@@ -35,16 +34,5 @@ DeepSeek
 Gemini
 
 特斯拉
-马斯克
 自动驾驶
 比亚迪
-华为
-
-机器人
-人形机器人
-Figure
-宇树
-智元
-
-芯片
-光刻机
